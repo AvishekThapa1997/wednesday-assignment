@@ -8,5 +8,9 @@
 
 
 ## Download Apk
-<a href="app/build/outputs/apk/debug/AvishekThapa1997.apk">Download Apk </a>
+
+<a href="app/apk/AvishekThapa1997.apk">Download Apk</a>
+
+### Demo
+
 
