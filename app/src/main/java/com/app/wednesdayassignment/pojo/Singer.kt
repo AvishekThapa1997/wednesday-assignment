@@ -11,5 +11,5 @@ data class Singer(
     @ColumnInfo(name = "singer_songs")
     val songs: List<Song>,
     @PrimaryKey(autoGenerate = true)
-    val id: Int = 1,
+    val id: Int = 0,
 )
