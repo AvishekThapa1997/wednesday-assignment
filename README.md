@@ -13,4 +13,6 @@
 
 ### Demo
 
+<img src="app/demo/WednesdayAppDemo.gif" height="800" width="400"/>
+
 
